@@ -1,2 +1,3 @@
-# git-digital-course-ada
-Curso de Git e Versionamento - ADA
+# Curso Digital: Git
+
+## Salvando modificações no Git
